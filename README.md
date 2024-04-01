@@ -1,10 +1,8 @@
 # Generating-Keywords-for-Google-Ads
 
-!DataCamp Logo
-
 ## Project Overview
 
-This project involves creating a prototype set of keywords for search campaigns related to the sofas section of a massive online furniture retailer. By combining relevant words with product names, we'll generate potential keywords using Python.
+This Datacamp project involves creating a prototype set of keywords for search campaigns related to the sofas section of a massive online furniture retailer. By combining relevant words with product names, we'll generate potential keywords using Python and pandas library.
 
 ## Project Tasks
 
@@ -40,4 +38,4 @@ This project involves creating a prototype set of keywords for search campaigns 
 
 ## Acknowledgments
 
-This project is part of the DataCamp course Data Manipulation with pandas.
+This project is part of the DataCamp course Data Manipulation with Pandas.
