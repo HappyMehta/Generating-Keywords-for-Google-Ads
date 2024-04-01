@@ -23,7 +23,7 @@ This Datacamp project involves creating a prototype set of keywords for search c
 
 1. **Clone this repository** to your local machine:
     ```bash
-    git clone https://github.com/your-username/keywords-for-google-ads.git
+    git clone https://github.com/HappyMehta/Generating-Keywords-for-Google-Ads.git
     ```
 
 2. **Install the required Python packages** (e.g., Pandas):
